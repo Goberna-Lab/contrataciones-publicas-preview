@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="427" viewBox="0 0 1366 427">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_11051" data-name="Rectángulo 11051" width="1366" height="427" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.549" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009fe3"/>
+      <stop offset="0.296" stop-color="#0483ba"/>
+      <stop offset="1" stop-color="#170403"/>
+    </radialGradient>
+  </defs>
+  <g id="Enmascarar_grupo_119" data-name="Enmascarar grupo 119" opacity="0.25" clip-path="url(#clip-path)">
+    <rect id="Rectángulo_11050" data-name="Rectángulo 11050" width="1366" height="854" transform="translate(0 -427)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
